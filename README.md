@@ -76,6 +76,3 @@ The application displays:
 
 The application is deployed using Streamlit Community Cloud.
 
-## Author
-
-Subash Prakash
